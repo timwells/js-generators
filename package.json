@@ -1,0 +1,20 @@
+{
+  "name": "js-generators",
+  "version": "1.0.0",
+  "description": "Generator example &amp; experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timwells/js-generators.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timwells/js-generators/issues"
+  },
+  "homepage": "https://github.com/timwells/js-generators#readme"
+}
